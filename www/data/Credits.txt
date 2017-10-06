@@ -1,0 +1,26 @@
+﻿<block:-1,0,10,10,100,left,Desaparecidos>
+\c[2]CONTROLES
+
+--- Teclado ---
+CIMA: Pensonagem (ou trocar números) movimenta para cima.
+BAIXO: Pensonagem (ou trocar números) movimenta para baixo.
+TRÁS: Pensonagem (ou trocar números) movimenta para trás.
+FRENTE: Pensonagem (ou trocar números) movimenta para frente.
+ENTER: 
+	> Interação entre objetos e personagens.
+	> Acelerar / Passar Mensagens.
+	
+Pressione QUALQUER TECLA para avançar 
+</block>
+
+<block:-1,0,10,10,100,left,Desaparecidos>
+\c[2]CONTROLES
+
+--- MOUSE ---
+CLIQUES: 
+	> Movimentar o Pesonagem
+	> Interação entre objetos e personagens.
+	> Acelerar / Passar Mensagens.
+
+Pressione QUALQUER TECLA para Sair
+</block>

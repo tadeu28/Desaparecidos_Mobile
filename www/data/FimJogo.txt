@@ -1,0 +1,62 @@
+﻿<block:999,0,10,10,300,center,Desaparecidos>
+PARABÉNS!
+Acredito que agora você seja um cidadão mais informado,
+que conhece um pouco mais sobre o processo
+executado pelos policiais e investigadores
+da Delegacia de Descoberta de Paradeiro da 
+Polícia Civil. Informações e Aprendizado é
+sempre muito valioso.
+</block>
+
+<block:-1,-1,10,10,offbot,center,Desaparecidos>
+\c[2]CRÉDITOS
+
+\c[2] Desaparecidos
+(Classe Games)
+Digital Games Based On Process Models
+
+\c[2]Este jogo foi desenvolvido como estudo exploratório
+\c[2]sobre o design de jogos digitais baseados em 
+\c[2]processo de prestação de serviços públicos.
+\c[2]Sendo este parte da pesquisa de doutorado de 
+\c[2]Tadeu Classe (PPGI/UNIRIO).
+
+\c[2]Game Designer, Process Designer e Desenvolvedor
+Tadeu Classe
+(Doutorando PPGI/UNIRIO)
+
+\c[2]Orientação
+Profª. Renata Araujo (PPGI/UNIRIO)
+Prof. Geraldo Xexéo (COPPE/UFRJ)
+
+\c[2]Grupos
+PPGI/UNIRIO:
+	Programa de Pós-Graduação em Informática (UNIRIO)
+
+CIBERDEM:
+	Grupo de Pesquisa e Inovação em Ciberdemocracia
+		Universidade Federal do Estado 
+		do Rio de Janeiro (PPGI/UNIRIO)
+		
+LUDES:
+	Laboratório de Ludologia, Engenharia e Simulação
+		PESC - Programa de Engenharia de Sistemas 
+		e Computação (COPPE/UFRJ)		
+
+\c[2]Agradecimentos
+À Delegacia de Descoberta de Paradeiro 
+da Polícia Civil do Rio de Janeiro
+por abrir as portas de oferecer as informações
+necessárias sobre a execução dos serviço de
+descoberta de pessoas desaparecidas.
+
+Em especial...
+...ao Investigador da DDPA, Humberto Amaro,
+que com toda a paciência foi muito solícito
+e prestativo em informar e possibilitar
+o mapeamento deste processo.
+</block>
+
+<block:999,0,10,10,300,center,Desaparecidos>
+FIM!
+</block>
